@@ -4,7 +4,7 @@
 2. Run `npm install`
 3. Run `npm start`
 
-* Make sure to check out the Back-End repo [here](https://github.com/eneax/recognizer-api).
+** Make sure to check out the Back-End repo [here](https://github.com/eneax/recognizer-api) **
 
 
 ## Examples
